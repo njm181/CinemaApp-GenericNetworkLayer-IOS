@@ -39,7 +39,7 @@ extension MoviesEndpoints: EndpointProtocol {
         return header
 //        switch self {
 //        case .getCurrentMovies:
-//            header["Authorization"] = "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0ZmJiZmI5NWZkNjdmY2YwYmJlNmU0NjUyODdlZmMyMSIsInN1YiI6IjVlY2MzNjViZjY3ODdhMDAyMzMwMGNlZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.W_M4qtjQTiQf0TiZUJ0SpPnm_b3IupdkjZQ2-cV1td0"
+//            header["Authorization"] = "Bearer"
 //            return header
 //        default:
 //            return header
